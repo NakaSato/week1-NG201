@@ -108,3 +108,5 @@ watchdog==6.0.0
     # via
     #   streamlit
     #   week1-statistic
+xlrd==2.0.2
+    # via week1-statistic
